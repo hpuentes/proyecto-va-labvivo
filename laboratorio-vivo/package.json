@@ -1,0 +1,14 @@
+{
+  "name": "@hpuentes/laboratorio-vivo",
+  "main": "a1011fc4194ed4ff@1081.js",
+  "version": "1081.0.0",
+  "homepage": "https://observablehq.com/@hpuentes/laboratorio-vivo",
+  "author": {
+    "name": "hpuentes",
+    "url": "https://observablehq.com/@hpuentes"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
